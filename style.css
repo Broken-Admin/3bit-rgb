@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  background: #212121;
+  font-size: 35px;
+}
+/*RGB*/
+#a {
+  color: #00f;
+}
+#b {
+  color: #0f0;
+}
+#c {
+  color: #f00;
+}
+#d {
+  color: #ff0;
+}
+#e {
+  color: #f0f;
+}
+#f {
+  color: #0ff;
+}
+#g {
+  color: #fff;
+}
+#h {
+  color: #000;
+}
