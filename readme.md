@@ -1,4 +1,4 @@
-#3 Bit RGB 
+# 3 Bit RGB 
 - Each bit represents the presence of R, G or B.
 - Allowing for 8 different colors.
 
