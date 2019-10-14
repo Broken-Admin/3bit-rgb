@@ -14,7 +14,7 @@
 
 ## RGB
 - 100 - Red - #F00 - ![](https://raw.githubusercontent.com/Broken-Admin/3bit-rgb/master/rgb-pngs/f00.png "f00")
-- 010 - Green - #0F0 - ![](https://raw.githubusercontent.com/Broken-Admin/3bit-rgb/master/rgb-pngs/0f0.png, "0f0")
+- 010 - Green - #0F0 - ![](https://raw.githubusercontent.com/Broken-Admin/3bit-rgb/master/rgb-pngs/0f0.png "0f0")
 - 001 - Blue - #00F - ![](https://raw.githubusercontent.com/Broken-Admin/3bit-rgb/master/rgb-pngs/00f.png "00f") 
 
 ## Combined
